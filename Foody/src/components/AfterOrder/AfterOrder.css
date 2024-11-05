@@ -1,0 +1,14 @@
+.img-styling {
+  width: 5%;
+}
+.after-order {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.size-6 {
+  stroke: green;
+}
