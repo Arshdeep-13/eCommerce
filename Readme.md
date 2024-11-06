@@ -22,10 +22,9 @@ An e-commerce website built to offer a seamless online shopping experience for u
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React (or Next.js), Tailwind CSS (or Bootstrap)
-- **Backend**: Node.js, Express, MongoDB (or PostgreSQL)
+- **Backend**: Node.js, Express, MongoDB
 - **Authentication**: JSON Web Token (JWT)
-- **Payment Gateway**: Stripe (or other payment processor)
-- **Hosting**: AWS EC2 / DigitalOcean / Heroku
+- **Payment Gateway**: Stripe
 - **Version Control**: Git, GitHub
 
 ## Installation
